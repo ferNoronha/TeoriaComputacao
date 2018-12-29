@@ -1,0 +1,12 @@
+Q0;a;A;D;Q1;
+Q0;|;|;D;Q4;
+Q0;B;B;D;Q3;
+Q1;a;a;D;Q1;
+Q1;B;B;D;Q1;
+Q1;b;B;E;Q2;
+Q2;a;a;E;Q2;
+Q2;B;B;E;Q2;
+Q2;A;A;D;Q0;
+Q3;B;B;D;Q3;
+Q3;|;|;E;Q4;
+Q4;X;X;X;X;
